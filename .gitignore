@@ -1,6 +1,3 @@
-*training_checkpoints/*
-*free-spoken*
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
